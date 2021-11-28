@@ -1,5 +1,4 @@
-# Projects
-My projects.
-All of my projects are displayed here.
-1. Frozo Icecreams - Py-Django
-2. MyTodo Scheduler - React
+# E-commerce Website
+- Website built using Python, Django, Bootstrap, SQLite.
+- Migrating db from SQLite3 to MySQL, PHP Admin - In progress.
+- Hosting website in progress.
